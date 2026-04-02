@@ -8,11 +8,11 @@ public class hashmap {
         for (int i = 0; i < arr.length; i++) {
             hm.put(arr[i],hm.getOrDefault(arr[i],0)+1);
         }
-        int max=0;
+        int min=arr.length+1;
         int ans=0;
         for(Integer key: hm.keySet()){
-            if(hm.get(key)>max){
-                max=hm.get(key);
+            if(hm.get(key)<min){
+                min=hm.get(key);
                 ans=key;
             }
         }
