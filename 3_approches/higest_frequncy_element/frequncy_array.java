@@ -12,10 +12,13 @@ public class frequncy_array {
            freq[arr[i]]++;
         }
         int ans=0;
-        for (int i = 0; i < arr.length; i++) {
-           if(max<freq[i]){
-            max=freq[i];
+        int maxf=0;
+        for (int i = 0; i < freq.length; i++) {
+           if(maxf<freq[i]){
+            maxf=freq[i];
+            
             ans=i;
+            
            }
         }
         System.out.print(ans);
