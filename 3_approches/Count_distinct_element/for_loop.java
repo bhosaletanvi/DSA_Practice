@@ -1,4 +1,4 @@
- class for_loop {
+ class for_loop{
     public static void main(String[] args) {
         int [] arr={1,2,1,3,2,1};
         int elements=0;
@@ -13,7 +13,7 @@
                 elements++;
             }
             }
-            System.out.print(elements);
+            System.out.print("array have "+elements+" distinct elements");
         }
         
     }

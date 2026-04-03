@@ -8,7 +8,7 @@
                 count++;
             }
         }
-        System.out.print(count);
+        System.out.print("array have "+count+" distinct elements");
     }
     static int f(int[] arr,int num){
         int count=0;
