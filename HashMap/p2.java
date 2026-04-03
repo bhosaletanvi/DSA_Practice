@@ -1,5 +1,5 @@
 import java.util.*;
-class frequncy {
+class frequncy{
     public static void main(String[] args) {
         int [] arr={1,2,1,3,2,1};
         HashMap<Integer,Integer> hm =new HashMap<>();
