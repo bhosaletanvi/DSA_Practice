@@ -6,7 +6,7 @@
             freq[str.charAt(i)-'a']++;
         }
         for (int i = 0; i < freq.length; i++) {
-            if(freq[i]==1){
+            if(freq[i]>1){
                 System.out.println((char)(i+'a'));
                 break;
 
