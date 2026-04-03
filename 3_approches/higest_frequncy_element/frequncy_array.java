@@ -1,4 +1,4 @@
-public class frequncy_array {
+class frequncy_array {
     public static void main(String[] args) {
         int[]arr={1,2,1,3,2,1};
         int max=0;
