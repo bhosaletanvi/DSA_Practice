@@ -13,6 +13,7 @@ class demo{
 
 	}
 	static void fun(int [] arr,int low ,int high){
+		if(low>=high){return ;}
 		int pivot=pivotFinder(arr, low , high);
 		fun(arr,low,pivot-1);
 		fun(arr,pivot+1,high);
@@ -24,10 +25,10 @@ class demo{
 		int i= low ;
 		int j=high;
 		while(i<j){
-			while(i<=high && arr[i]<=pivot){
+			while(i<=high-1 && arr[i]<=pivot){
 				i++;
 			}
-			while(j>=low && arr[j]>pivot){
+			while(j>=low+1 && arr[j]>pivot){
 				j--;
 			}
 			if(i<j){
