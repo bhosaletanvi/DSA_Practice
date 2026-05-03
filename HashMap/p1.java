@@ -13,6 +13,7 @@ class hashmap{
         System.out.println(hm);
         hm.put("tanvi", 85);
         System.out.println(hm);
+ 	System.out.println(hm.containsKey("tanvi"));
         System.out.println(hm.get("saniya"));
 
         int marks=hm.get("tanvi");
