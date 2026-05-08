@@ -14,7 +14,7 @@ class demo{
 		for(int i=0;i<arr.length;i++){
 			currentsum+=arr[i];
 			max=Math.max(max,currentsum);
-			if(currentsum<0){
+			if(currentsum<0 || arr[i]<0){
 				currentsum=0;
 			}			
 		}

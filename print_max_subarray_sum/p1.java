@@ -16,6 +16,10 @@ class demo{
 				int sum=0;
 				for(int k=i;k<=j;k++){
 					sum+=arr[k];
+					if(arr[k]<0){
+					break;
+				}
+
 				}
 				max=Math.max(max,sum);
 				if(max==sum){
