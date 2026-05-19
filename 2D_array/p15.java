@@ -1,4 +1,4 @@
-//17 18 19 20 16 12 8 4 3 2 1 5 9 13
+//20 16 12 8 4 3 2 1 5 9 13 17 18 19
 
 class demo{
 	public static void main(String [] args){
