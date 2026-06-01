@@ -34,9 +34,6 @@ class demo{
 			}
 		} 
 		System.out.print(max+"\n");
-		for(int t=start;t<=end;t++){
-			System.out.print(arr[t]+" ");
-		}
 		System.out.print("start at "+start+" end at "+end);
 	}
 }
