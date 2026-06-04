@@ -1,14 +1,13 @@
 class demo{
 	public static void main(String [] args){
-		StringBuilder sb =new StringBuilder("java");
+		StringBuilder sb =new StringBuilder("CodeGuruCool");
 		System.out.println(sb);
 		System.out.println(sb.length());
 		System.out.println(sb.capacity());
 
-		sb.replace(0,4,"t");
+		sb.replace(5,8,"tanvi");
 		System.out.println(sb);
 
-		sb.append("java");
 		System.out.println(sb);
 		System.out.println(sb.length());
 		System.out.println(sb.capacity());
