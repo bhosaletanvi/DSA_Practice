@@ -5,7 +5,7 @@ class demo{
 		System.out.println("Enter String : ");
 		String s= sc.nextLine();
 		int count=0;
-		int max=97;
+		int max=s.charAt(0);
 		for(int i=0;i<s.length();i++){
 			if(s.charAt(i)>=max){
 				max=s.charAt(i);
