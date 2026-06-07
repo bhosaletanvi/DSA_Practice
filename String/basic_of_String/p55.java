@@ -13,8 +13,7 @@ class demo{
 		int add=0;
 		for(int i=0;i<s.length();i++){
 			if(s.charAt(i)>=97 && s.charAt(i)<=122){
-				add+=(int)s.charAt(i);
-				
+				add+=(int)s.charAt(i);	
 			}
 			
 		}
