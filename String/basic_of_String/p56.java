@@ -12,7 +12,7 @@ class demo{
 		for(int i=0;i<sb.length();i++){
 			for(int j=i+1;j<sb.length();j++){
 				if(sb.charAt(i)==sb.charAt(j)){
-					sb.deleteCharAt(i);
+					sb.deleteCharAt(j);
 				}
 			}
 		}

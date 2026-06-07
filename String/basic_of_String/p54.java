@@ -10,16 +10,18 @@ class demo{
 		if(s.length()<10){
 			return false;
 		}	
+		int add=0;
 		int count=0;
-		int digit=48;
 		for(int i=0;i<s.length();i++){
-			if(s.charAt(i)==(char)(digit)){
+			if(s.charAt(i)>=48 && s.charAt(i)<=57){
+				add+=s.charAt(i);
+			}
+			if(s.charAt(i)==48){
 				count++;
-				digit++;
 			}
-			if(count==9){
-				return true;
-			}
+		}
+		if(add>=45 && count>0){
+			return true;
 		}
 		return false;		
 	}

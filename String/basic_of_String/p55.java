@@ -10,17 +10,18 @@ class demo{
 		if(s.length()<26){
 			return false;
 		}	
-		int count=0;
-		int alphabet=97;
+		int add=0;
 		for(int i=0;i<s.length();i++){
-			if(s.charAt(i)==(char)(alphabet)){
-				count++;
-				alphabet++;
+			if(s.charAt(i)>=97 && s.charAt(i)<=122){
+				add+=(int)s.charAt(i);
+				
 			}
-			if(count==26){
-				return true;
-			}
+			
 		}
-		return false;		
+		System.out.print(add);
+		if(add==219){
+			return true;	
+		}
+		return false;	
 	}
 }
