@@ -4,9 +4,9 @@ class demo{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter String : ");
 		String s= sc.nextLine();
-		System.out.print(all_digits(s));
+		System.out.print(all_characters(s));
 	}
-	static boolean all_digits(String s){
+	static boolean all_characters(String s){
 		if(s.length()<26){
 			return false;
 		}	

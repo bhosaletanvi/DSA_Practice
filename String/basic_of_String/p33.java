@@ -6,7 +6,7 @@ class demo{
 		String s= sc.nextLine();
 		int alphabet=0,digit=0,special_char=0;
 		for(int i=0;i<s.length();i++){
-			if((s.charAt(i)>=65 && s.charAt(i)<=90) || (s.charAt(i)>=97 && 				s.charAt(i)<=122)){
+			if((s.charAt(i)>=65 && s.charAt(i)<=90) || (s.charAt(i)>=97 && 	s.charAt(i)<=122)){
 				alphabet++;
 			}else if((s.charAt(i)>=48 && s.charAt(i)<=57)){
 				digit++;

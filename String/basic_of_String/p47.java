@@ -4,14 +4,16 @@ class demo{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter String : ");
 		String s= sc.nextLine();
+		Scanner ans = new Scanner(System.in);
 		String[] words = s.split(" ");
-		StringBuilder sb = new StringBuilder();
+
 		for(int i=0;i<words.length;i++){
-		StringBuilder temp = new StringBuilder();
-			temp.append(words[i]);
-			sb.append(temp.reverse());
+			for(int j=words[i];j>=0;j--){
+				ans.append(words[j]);
+		}
 			sb.append(" ");
 		}
-		System.out.print(sb);		
+
+		System.out.print(ans);		
 	}
 }
