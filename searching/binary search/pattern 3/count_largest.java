@@ -13,10 +13,10 @@ class demo{
 		System.out.println("Enter element : ");
 		int element = sc.nextInt();
 
-		System.out.print(ceiling(arr,element));
+		System.out.print(count_largest(arr,element));
 	}
 		
-	static int ceiling(int [] arr,int element){
+	static int count_largest(int [] arr,int element){
 		int low=0,high=arr.length-1,ans=-1,mid=0;
 		while(low<=high){
 			mid=(low+high)/2;
