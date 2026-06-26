@@ -16,17 +16,18 @@ class demo{
 		System.out.print(Insertion_index(arr,element));
 	}
 		
-	static int Insertion_index(int [] arr,int element){
-		int low=0,high=arr.length-1,ans=-1;
-		while(low<=high){
-			int mid=(low+high)/2;
-			if(arr[mid]<element){
-				ans=mid;
-				low=mid+1;
-			}else{
-				high=mid-1;
-			}
-		}		
-		return ans;
-	}
+	 static int Insertion_index(int[] arr, int target) {
+        int low=0,high=arr.length-1,ans=-1;
+        while(low<high){
+            int mid = (low+high)/2;
+            if(arr[mid]>=target){
+		System.out.println(arr[mid]);
+                ans=mid;
+                high=mid-1;
+            }else{
+                low=mid+1;
+            }
+        }
+        return ans;
+    }
 }
