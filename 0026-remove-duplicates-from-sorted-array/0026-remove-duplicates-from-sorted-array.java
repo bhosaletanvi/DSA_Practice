@@ -16,7 +16,6 @@ class Solution {
                 arr[i]='_';
             }
         }
-        System.out.println(al);
         for (int i = 0; i < al.size(); i++) {
             arr[i] = al.get(i);
         }
