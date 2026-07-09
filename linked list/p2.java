@@ -7,6 +7,34 @@ class node{
 class demo{
 	public static void main(String [] args){
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter number of Nodes : ");
+		
+		node first = new node();
+		first.data=10;
+		first.next=null;
+			
+		node second = new node();
+		second.data=20;
+		second.next=null;
+		first.next=second;
+
+		node third = new node();
+		third.data=30;
+		third.next=null;
+		second.next=third;
+	
+		node fourth = new node();
+		fourth.data=40;
+		fourth.next=null;
+		third.next = fourth;
+
+		node c = first;
+		c.data=900;
+		
+		node temp=first;
+		while(temp!=null){
+			System.out.println(temp.data);
+			temp=temp.next;
+		}
+		 
 	}
 }
