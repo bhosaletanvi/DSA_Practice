@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1929-concatenation-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
