@@ -14,7 +14,6 @@ class Solution {
          for(int i=num;i<s.length();i++){
             sb.append(s.charAt(i));
         }
-        String ans=sb.toString();
-        return ans;
+        return sb.toString();
     }
 }
