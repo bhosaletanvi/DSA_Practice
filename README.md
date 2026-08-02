@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2109-adding-spaces-to-a-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
