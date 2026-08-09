@@ -23,13 +23,7 @@ class Solution {
                 ans[i]=-1;
             }
         }
-        ans[arr.length-1]=-1;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]>arr[arr.length-1]){
-                ans[arr.length-1]=arr[i];
-                break;
-            }
-        }
+        
         return ans;
     }
 }
