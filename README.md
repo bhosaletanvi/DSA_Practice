@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
