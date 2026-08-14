@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0503-next-greater-element-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0503-next-greater-element-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0739-daily-temperatures) |
 ## Database
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
