@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0206-reverse-linked-list) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
