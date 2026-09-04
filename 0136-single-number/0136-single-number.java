@@ -1,14 +1,12 @@
 class Solution {
     public int singleNumber(int[] arr) {
+        HashMap<Integer,Integer> hm = new HashMap<>();
         for(int i=0;i<arr.length;i++){
-            int count=0;
-            for(int j=0;j<arr.length;j++){
-                if(arr[i]==arr[j]){
-                    count++;
-                }
-            }
-            if(count==1){
-                return arr[i];
+            hm.put(arr[i],hm.getOrDefault(arr[i],0)+1);
+        }
+        for(Integer key : hm.keySet()){
+            if(hm.get(key)==1){
+                return key;
             }
         }
         return -1;
