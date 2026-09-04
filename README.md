@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0503-next-greater-element-ii) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
