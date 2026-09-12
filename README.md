@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
