@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
+| [0836-rectangle-overlap](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
