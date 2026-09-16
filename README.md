@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2109-adding-spaces-to-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
