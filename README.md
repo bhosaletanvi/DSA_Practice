@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
@@ -177,11 +178,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
