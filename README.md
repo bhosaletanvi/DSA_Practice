@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 ## Sorting
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
