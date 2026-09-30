@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
