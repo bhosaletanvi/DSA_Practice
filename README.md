@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0796-rotate-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
