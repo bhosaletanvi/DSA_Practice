@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0258-add-digits) |
