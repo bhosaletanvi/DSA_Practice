@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0118-pascals-triangle) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0216-combination-sum-iii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
 ## Heap (Priority Queue)
 |  |
