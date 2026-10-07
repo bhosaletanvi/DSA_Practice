@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
 ## Game Theory
