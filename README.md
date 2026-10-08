@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0856-score-of-parentheses) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [1817-finding-the-users-active-minutes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1817-finding-the-users-active-minutes) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [2404-most-frequent-even-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
