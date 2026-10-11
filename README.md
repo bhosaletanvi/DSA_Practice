@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2404-most-frequent-even-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
 | ------- |
