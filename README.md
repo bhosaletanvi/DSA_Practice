@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
