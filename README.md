@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1046-last-stone-weight) |
 ## Quickselect
