@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0819-most-common-word](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0819-most-common-word) |
 | [1817-finding-the-users-active-minutes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0819-most-common-word) |
 | [2404-most-frequent-even-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Backtracking
