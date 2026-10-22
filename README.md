@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2180-count-integers-with-even-digit-sum) |
