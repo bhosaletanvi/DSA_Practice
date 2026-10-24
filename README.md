@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2409-count-days-spent-together](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3360-stone-removal-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2109-adding-spaces-to-a-string) |
+| [2409-count-days-spent-together](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
