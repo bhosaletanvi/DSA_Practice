@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0035-search-insert-position) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
