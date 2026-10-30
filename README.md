@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
