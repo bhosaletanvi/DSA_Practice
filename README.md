@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
