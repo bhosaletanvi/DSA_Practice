@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0890-find-and-replace-pattern) |
 | [1046-last-stone-weight](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
