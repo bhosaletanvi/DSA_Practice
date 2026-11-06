@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0819-most-common-word) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0313-super-ugly-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0313-super-ugly-number) |
+| [0392-is-subsequence](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
 | [3665-twisted-mirror-path-count](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3665-twisted-mirror-path-count) |
 ## Game Theory
