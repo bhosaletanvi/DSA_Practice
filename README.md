@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3665-twisted-mirror-path-count) |
