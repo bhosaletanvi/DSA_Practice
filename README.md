@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
