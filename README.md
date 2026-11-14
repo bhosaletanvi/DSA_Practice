@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3665-twisted-mirror-path-count) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
 | ------- |
