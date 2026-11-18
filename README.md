@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3280-convert-date-to-binary](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
