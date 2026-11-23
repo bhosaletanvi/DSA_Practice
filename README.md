@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0890-find-and-replace-pattern) |
 | [1046-last-stone-weight](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1817-finding-the-users-active-minutes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3903-smallest-stable-index-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2409-count-days-spent-together](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2409-count-days-spent-together) |
@@ -508,4 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
