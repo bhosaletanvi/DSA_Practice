@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1817-finding-the-users-active-minutes) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2409-count-days-spent-together](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0306-additive-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0389-find-the-difference) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhosaletanvi/DSA_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
@@ -502,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/bhosaletanvi/DSA_Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhosaletanvi/DSA_Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Quicksort
 |  |
