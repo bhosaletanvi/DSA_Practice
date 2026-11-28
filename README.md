@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0216-combination-sum-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0392-is-subsequence) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhosaletanvi/DSA_Practice/tree/master/0263-ugly-number) |
